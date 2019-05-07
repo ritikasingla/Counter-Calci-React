@@ -1,2 +1,2 @@
-# MyTodoApp
-this is a todo application to create and maintain day today todo list
+# Counter Calci
+A counter calci to add or subtract number using just ReactJS.
